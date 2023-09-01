@@ -1,7 +1,7 @@
 # Operation_and_Metric_Spike_Analytics
 As a Lead Data Analyst, you'll analyze diverse data sets to address company department queries, leveraging advanced SQL skills to enhance operations and explain metric shifts.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**A)Case Study 1: Job Data Analysis
+A)Case Study 1: Job Data Analysis
   You will be working with a table named "CaseStudy1 Dataset" with the following columns:
     job_id: Unique identifier of jobs
     actor_id: Unique identifier of actor
@@ -22,9 +22,9 @@ Tasks:
     Your Task: Write an SQL query to calculate the percentage share of each language over the last 30 days.
   4)Duplicate Rows Detection:
     Objective: Identify duplicate rows in the data.
-    Your Task: Write an SQL query to display duplicate rows from the "CaseStudy1 Dataset" table.**
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**B)Case Study 2: Investigating Metric Spike
+    Your Task: Write an SQL query to display duplicate rows from the "CaseStudy1 Dataset" table.
+
+B)Case Study 2: Investigating Metric Spike
   You will be working with three tables:
     users: Contains one row per user, with descriptive information about that user’s account.
     events: Contains one row per event, where an event is an action that a user has taken (e.g., login, messaging, search).
@@ -44,5 +44,5 @@ Tasks:
     Your Task: Write an SQL query to calculate the weekly engagement per device.
   5)Email Engagement Analysis:
     Objective: Analyze how users are engaging with the email service.
-    Your Task: Write an SQL query to calculate the email engagement metrics.**
+    Your Task: Write an SQL query to calculate the email engagement metrics.
 
